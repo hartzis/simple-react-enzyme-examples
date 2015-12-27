@@ -7,4 +7,4 @@ Simple react component tests using airbnb's enzyme
 * Run tests `npm test`
 
 ###Blog bost
-Check out the small blog post related to this example here (Simply test react components)[www.hartzis.me/react-testing]
+Check out the small blog post related to this example here [Simply test react components](www.hartzis.me/react-testing)
