@@ -1,5 +1,5 @@
 # simple-react-enzyme-examples
-Simple react component tests using airbnb's enzyme
+Simple react component tests using airbnb's [enzyme](https://github.com/airbnb/enzyme)
 
 ###Setup
 * Clone and/or fork repo
