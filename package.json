@@ -1,0 +1,29 @@
+{
+  "name": "simple-react-enzyme-examples",
+  "version": "1.0.0",
+  "description": "Simple react component tests using airbnb's enzyme",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/babel-node --presets es2015,react index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hartzis/simple-react-enzyme-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hartzis/simple-react-enzyme-examples/issues"
+  },
+  "homepage": "https://github.com/hartzis/simple-react-enzyme-examples#readme",
+  "devDependencies": {
+    "babel-cli": "^6.3.17",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "enzyme": "^1.2.0",
+    "react": "^0.14.3",
+    "react-addons-test-utils": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "tape": "^4.4.0"
+  }
+}
